@@ -1,0 +1,4 @@
+worlds:
+  afterdark:
+    caves-enabled: true
+    ridges-enabled: true
